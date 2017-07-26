@@ -1,3 +1,4 @@
 #Successful Tests
-#Thu Jul 20 18:00:16 CEST 2017
-example.HelloSpec=1500566416367
+#Wed Jul 26 21:40:23 CEST 2017
+example.HelloSpec=1500807839546
+timeseries.analytics.TimeSeriesAnalysisTest=1501098023397
